@@ -2,7 +2,6 @@ module.exports = (name, colors) => ({
   $schema: 'vscode://schemas/color-theme',
   name,
   type: 'dark',
-  semanticHighlighting: true,
   colors: {
     contrastBorder: colors.border_100,
     contrastActiveBorder: null,
