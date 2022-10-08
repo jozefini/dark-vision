@@ -1,0 +1,44 @@
+{
+  "name": "dark-vision",
+  "publisher": "jozef",
+  "displayName": "Theme Null",
+  "description": "A professional dark theme for clean and clear visual coding",
+  "version": "0.0.1",
+  "type": "commonjs",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "scripts": {
+    "build": "node --experimental-modules src/index.js",
+    "release": "pnpm build && git add dist && git commit -m build-theme && pnpm version patch & vsce publish && git push"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jozefini/vscode-theme-null"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Vision",
+        "uiTheme": "vs-dark",
+        "path": "./dist/color-theme.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#151515",
+    "theme": "dark"
+  },
+  "icon": "assets/logo.png",
+  "keywords": [
+    "Dark Theme",
+    "Theme Null",
+    "Atom Pro",
+    "Material",
+    "Shade of Purple",
+    "Cobalt"
+  ]
+}

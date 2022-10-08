@@ -1,0 +1,56 @@
+.colors {
+  bg_100: #151515;
+  color_100: #eee;
+  border_100: #323837;
+  red_100: #f85931;
+
+  /* colors */
+  clr_01: #323837;
+  clr_02: #e1270e;
+  clr_03: #e6e6e6;
+  clr_04: #151515;
+  clr_05: #242424;
+  clr_06: #0971f1;
+  clr_07: #eee;
+  clr_08: #202020;
+  clr_09: #313131;
+  clr_10: #222222;
+  clr_11: #3793e033;
+  clr_12: #343434;
+  clr_13: #3bc7b8;
+  clr_14: #3793e01a;
+  clr_15: #364b49;
+  clr_16: #252525;
+  clr_17: #5bc266;
+  clr_18: #999999;
+  clr_19: #fbcc43;
+  clr_20: #bf5af2;
+  clr_21: #6cc7f6;
+  clr_22: #535bcf;
+  clr_23: #3793e040;
+  clr_24: #bbb;
+  clr_25: #444444;
+  clr_26: #fff9f9;
+  clr_27: #757575;
+
+  /* token colors */
+  tcl_01: #6a837b;
+  tcl_02: #3bc7b8;
+  tcl_03: #ce1836;
+  tcl_04: #edb92e;
+  tcl_05: #ff4e50;
+  tcl_06: #c3cb4c;
+  tcl_07: #f85931;
+  tcl_08: #e3e2e0;
+  tcl_09: #f85931;
+  tcl_10: #75715e;
+  tcl_11: #00a8c6;
+  tcl_12: #a6e22e;
+  tcl_13: #e6db74;
+  tcl_14: #8fbe00a0;
+  tcl_15: #9b9b9b;
+  tcl_16: #00a8c6;
+  tcl_17: #e61f44;
+  tcl_18: #a7da1e;
+  tcl_19: #f7b83d;
+}
