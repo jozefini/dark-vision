@@ -13,4 +13,4 @@
 </p>
 <br />
 
-![Dark Vision Preview](./assets/screenshot.jpg)
+![Dark Vision Preview](./assets/screenshot.png)
