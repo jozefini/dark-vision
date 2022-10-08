@@ -13,4 +13,4 @@
 </p>
 <br />
 
-![Dark Vision Preview](./assets/screenshot.png)
+![Dark Vision Preview](https://raw.githubusercontent.com/jozefini/vscode-dark-vision/7f4ab3f99a688a8294bb41691ada0b91f3ab1ac4/assets/screenshot.png)
